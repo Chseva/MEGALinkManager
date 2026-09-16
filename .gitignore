@@ -1,0 +1,15 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# PyInstaller output (publish ZIP releases separately, not in the repository)
+build/
+dist/
+
+# Locally exported public-link lists
+exports/
+* links.txt
+*.log
