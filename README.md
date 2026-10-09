@@ -39,7 +39,7 @@ The app looks for MEGAcmd in the usual per-user and Program Files installation l
 1. Start **MEGA Link Manager**.
 2. Confirm that the connection area says MEGAcmd is ready and the MEGA account is logged in.
 3. Browse to the collection or folders you want to manage.
-4. Select a collection and choose **Export Links** to save its current links to a text file, or select the folders/collection and choose **Renew Links**.
+4. Select the folders/collection and choose **Renew Links**, and select a collection and choose **Export Links** to save its current links to a text file,.
 5. Read the confirmation carefully before renewing. The activity panel and counters show renewed, skipped, and failed items.
 
 Use **Refresh** after a renewal to view the current folder state.
